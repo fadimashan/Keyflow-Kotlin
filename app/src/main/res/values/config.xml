@@ -1,0 +1,3 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="base_api">https://stage-api.keyflow.com/capi/v4/</string>
+</resources>

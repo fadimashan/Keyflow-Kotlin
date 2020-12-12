@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Keyflow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in">Sign in</string>
+    <string name="no_account_apply_here">No Account? Apply here</string>
+    <string name="select_yyyy_mm_dd">Select YYYY/MM/DD</string>
+    <string name="add_name">Add Name</string>
+    <string name="add_description">Add description</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="my_recording">My Record</string>
+    <string name="uploaded_date">Uploaded Date</string>
+    <string name="create_recording">Create Recording</string>
+    <string name="title_activity_better_video_player">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="my_comment">My Comment</string>
+    <string name="status">Status</string>
+    <string name="new_recording">New Recording</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="awaiting_results">Awaiting Results</string>
+    <string name="video">Video</string>
+    <string name="graphs">Graphs</string>
+    <string name="comment">Comment</string>
+
+
+    <string name="notification_channel_id" translatable="false">fcm_this_is_my_default_channel</string>
+    <string name="default_notification_channel_id" translatable="false">my_default_channel</string>
+    <string name="notification_channel_description" translatable="false">notification_channel_description</string>
+    <string name="notification_channel_name" translatable="false">Sleip_channel_name</string>
+    <string name="default_notification_channel_name" translatable="false">default_Sleip_channel_name</string>
+    <string name="u_have_result">New result!</string>
+    <string name="snooze">Snooze</string>
+    <string name="msg_token_fmt">token is:</string>
+    <string name="event_name">event name</string>
+    <string name="date">date</string>
+    <string name="endtime">Endtime</string>
+    <string name="day">day</string>
+    <string name="weekDay">02</string>
+    <string name="month">month</string>
+    <string name="stockholm">Stockholm</string>
+    <string name="todo">TODO</string>
+    <string name="venue_name">venue name</string>
+    <string name="go_out_tonight">GO OUT TONIGHT</string>
+
+
+</resources>
